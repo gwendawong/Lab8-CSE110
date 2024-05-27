@@ -2,7 +2,7 @@
 
 Name: Gwendolyn Wong (no partner)
 
-GitHub Pages url: 
+GitHub Pages url: https://gwendawong.github.io/Lab8-CSE110/
 
 How are graceful degradation and service workers related?
 
